@@ -34,3 +34,9 @@ I have completed my **MS in Computer Science** and actively looking for **full-t
   Applied techniques such as train-test splitting, cross-validation, and performance metrics (accuracy, precision, recall) to evaluate models. Gained exposure to feature selection and basic hyperparameter tuning.
  
 
+## 📫 Connect With Me
+
+- 📧 Email: likithas806@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/likitha-s-818975238/
+
+---
