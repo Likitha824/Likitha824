@@ -18,7 +18,6 @@ I have completed my **MS in Computer Science** and actively looking for **full-t
 - Data Engineering  
 - Data Science  
 - Data Analytics
-- 
 ---
 
 ## 🛠 Technical Skills
