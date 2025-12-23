@@ -6,17 +6,6 @@
 💡CourseWork:-Machine Learning ,Advanced AI,Computer Vision,Data Strucutres and Algorithms,Data Mining
 
 ---
-
-## 👩‍💻 About Me
-
-I’m a experienced software engineer focused on building scalable, optimized data systems that power analytics and machine learning workflows.
-Additonaly i have strong bacground in Machine Learning and AI 
-
-Interested to work in this fields
-- Data Engineering  & Analytics
-- Data Science  
-
----
 ## 👩‍💻 About Me
 
 I’m a software engineer with a strong foundation in **data engineering, machine learning, and applied AI**.  
