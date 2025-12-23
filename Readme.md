@@ -47,51 +47,6 @@ I have completed my **MS in Computer Science** and actively looking for **full-t
 ![OpenFHE](https://img.shields.io/badge/OpenFHE-Homomorphic%20Encryption-darkred)
 
 
-## 🛠 Technical Skills
-
-<p align="center">
-  <strong>Programming</strong><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Big Data & Streaming</strong><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" width="40"/>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Cloud & Data</strong><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="40"/>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>GenAI & ML</strong><br><br>
-  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" width="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/brain.png" width="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/lock.png" width="40"/>
-</p>
 
 
 ## 📫 Connect With Me
