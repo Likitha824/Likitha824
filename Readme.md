@@ -38,19 +38,31 @@ I have completed my **MS in Computer Science** and actively looking for **full-t
   - Retrieval-Augmented Generation (RAG)  
   - LLM-based Application Development  
   - OpenFHE (Homomorphic Encryption Concepts)
- 
-### 🛠 Technical Skills
+## 🛠 Technical Skills
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="40"/>
-</p>
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?logo=postgresql)
+
+### Big Data & Streaming
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop)
+
+### Cloud & Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt)
+
+### GenAI & ML
+![RAG](https://img.shields.io/badge/RAG-LLM%20Search-blueviolet)
+![LLM](https://img.shields.io/badge/LLM%20Apps-GenAI-green)
+![Prompt](https://img.shields.io/badge/Prompt%20Engineering-orange)
+![OpenFHE](https://img.shields.io/badge/OpenFHE-Homomorphic%20Encryption-darkred)
+
 
 
 
