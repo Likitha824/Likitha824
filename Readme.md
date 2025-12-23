@@ -43,11 +43,7 @@ My areas of Interests:
 **BI:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
-
 ---
-
-## 📫 Connect with Me
-
 
 ## 🤝 Connect with Me
 
