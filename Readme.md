@@ -52,28 +52,47 @@ My areas of Interests:
 - 💼 LinkedIn: https://www.linkedin.com/in/likitha-s-818975238/
 
 ---
-## ✦ How I Build Systems
+## 🧬 Technical DNA
 
 <p align="center">
-  <b>Code</b> → <b>Process</b> → <b>Model</b> → <b>Deploy</b> → <b>Visualize</b>
+  Python · SQL · Java
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,postgres" />
+  Spark · Kafka · Airflow · Hadoop
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spark,kafka,airflow" />
+  Kimball · Medallion · dbt
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
+  AWS · Azure · Databricks · Snowflake
 </p>
 
+<p align="center">
+  Machine Learning · Computer Vision · Analytics
+</p>
+
+
+## 🧭 Engineering Radar
+
+<p align="center"><b>Data Engineering</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spark,hadoop,kafka,airflow" />
+</p>
+
+<p align="center"><b>Machine Learning</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+</p>
+
+<p align="center"><b>Cloud & Platforms</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,databricks" />
 </p>
 
+<p align="center"><b>Analytics</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
