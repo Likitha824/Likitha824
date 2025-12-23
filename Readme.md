@@ -17,7 +17,7 @@ My areas of Interests:
 
 ## 🛠️ Technical skills 
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
+Languages: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
 
 **Data Engineering:**  ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black) ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)  ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) 
 
@@ -25,7 +25,7 @@ My areas of Interests:
 
 **Cloud & Platforms:** ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)  ![Databricks](https://img.shields.io/badge/Databricks-EA3E23?logo=databricks&logoColor=white)  ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) 
 
-**BI:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) --- 
+**BI:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) 
 
 ---
 
