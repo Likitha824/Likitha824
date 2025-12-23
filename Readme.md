@@ -52,9 +52,28 @@ My areas of Interests:
 - 💼 LinkedIn: https://www.linkedin.com/in/likitha-s-818975238/
 
 ---
-<p align="center"><b>Languages & Databases</b></p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql" /> </p>
-<p align="center"><b>Data Engineering & Big Data</b></p> <p align="center"> <img src="https://skillicons.dev/icons?i=spark,kafka,airflow,hadoop" /> </p>
-<p align="center"><b>Data Modeling & Transformation</b></p> <p align="center"> <img src="https://img.shields.io/badge/Kimball-4B8BBE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Medallion-6A5ACD?style=for-the-badge" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> </p>
-<p align="center"><b>Cloud & Platforms</b></p> <p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,databricks" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /> </p>
-<p align="center"><b>Machine Learning</b></p> <p align="center"> <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" /> </p>
-<p align="center"><b>BI & Analytics</b></p> <p align="center"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
+## ✦ How I Build Systems
+
+<p align="center">
+  <b>Code</b> → <b>Process</b> → <b>Model</b> → <b>Deploy</b> → <b>Visualize</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,postgres" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spark,kafka,airflow" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,databricks" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
