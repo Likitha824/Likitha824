@@ -48,9 +48,10 @@ My areas of Interests:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
----
+## 🤝 Connect with Me
 
-> “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
+- 💼 LinkedIn: https://www.linkedin.com/in/likitha-s-818975238/ 
+- 📧 Email: likithas806@gmail.com  
+- 💻 GitHub: https://github.com/Likitha824
+
