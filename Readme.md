@@ -20,24 +20,7 @@ I have completed my **MS in Computer Science** and actively looking for **full-t
 - Data Analytics
 ---
 
-## 🛠 Technical Skills
-
-- **Programming Languages:** Python, SQL, Java  
-- **Big Data & Streaming:** PySpark, Spark Streaming, Kafka, Hadoop, Hive  
-- **Cloud & Data Engineering:**  AWS,Azure,DataBricks, Snowflake, dbt, Airflow  
-- **Data Modeling:** Star Schema, Snowflake Schema, Data Modelling (kimball )
-- **Visualization & Tools:** Power BI
-- **Machine Learning & Data Analysis:**  
-  - Scikit-learn, Pandas, NumPy  
-  - Regression, Classification, Transfer Learning, Deep Learning (projects) ,NLP concepts
-  - Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA)  
-  - Model Evaluation: Train-Test Split, Cross-Validation, Accuracy, Precision, Recall  
-
-- **Generative AI & Applied AI (Projects):**  
-  - Prompt Engineering  
-  - Retrieval-Augmented Generation (RAG)  
-  - LLM-based Application Development  
-  - OpenFHE (Homomorphic Encryption Concepts)
+  
 ## 🛠 Technical Skills
 
 ### Programming
