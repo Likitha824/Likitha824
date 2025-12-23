@@ -11,15 +11,11 @@
 I’m a software engineer with a strong foundation in **data engineering, machine learning, and applied AI**.  
 My work focuses on building **scalable, efficient data systems** that support analytics and machine learning workflows.
 
----
+### Areas of Interest
 
-## 🧠 Technical Interests
+- Data Engineering & Analytics  
+- Data Science & Machine Learning  
 
-- **Data Engineering & Analytics**  
-  Building robust data pipelines, optimizing storage and compute, and enabling data-driven decision-making.
-
-- **Data Science & Machine Learning**  
-  Developing models, extracting insights, and applying ML to solve practical problems.
 
 ---
 
