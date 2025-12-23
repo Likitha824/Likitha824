@@ -17,7 +17,7 @@ My areas of Interests:
 
 ## 🛠️ Technical skills 
 
-Languages: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
 
 **Data Engineering:**  ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black) ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)  ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) 
 
