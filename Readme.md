@@ -8,10 +8,10 @@
 ---
 ## 👩‍💻 About Me
 
-I’m a software engineer with a strong foundation in **data engineering, machine learning, and applied AI**. My work focuses on building scalable, efficient data systems that support analytics and machine learning workflows.
+I’m a Masters Graduate with a strong foundation in **data engineering,Software Engineering, Machine learning, and applied AI**. My work focuses on building scalable, efficient data systems that support analytics and machine learning workflows.
 
 My areas of Interests:
-
+-Software Engineer
 - Data Engineering & Analytics  
 - Data Science & Machine Learning  
 
